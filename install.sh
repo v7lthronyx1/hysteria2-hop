@@ -366,7 +366,7 @@ write_unit() {
 	cat >"$UNIT" <<EOF
 [Unit]
 Description=Hysteria 2 (hysteria2-hop)
-Documentation=https://github.com/w59520760-sketch/hysteria2-hop
+Documentation=https://github.com/v7lthronyx1/hysteria2-hop
 After=network-online.target
 Wants=network-online.target
 
